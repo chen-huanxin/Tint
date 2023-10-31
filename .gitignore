@@ -1,0 +1,14 @@
+**/__pycache__
+logs/
+checkpoint/
+*.jpg
+*.jpeg
+good_data_clear/
+selected_dataset/
+*.txt
+2022*
+*.pth
+.vscode/**
+*.ipynb
+demo.py
+best_rst/**
